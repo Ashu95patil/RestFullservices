@@ -27,3 +27,8 @@ public class SwaggerConfig {
 				.build();
 	}
 }
+/*
+ * <plugin> <groupId>org.sonarsource.scanner.maven</groupId>
+ * <artifactId>sonar-maven-plugin</artifactId> <version>3.4.0.905</version>
+ * </plugin>
+ */
